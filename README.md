@@ -6,7 +6,7 @@
 
 ### Languages:
 
-<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img alt="C++" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" /> <img alt="Python" src="https://img.shields.io/badge/-Python-black?logo=Python&style=social" /> 
+<img alt="C++" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" /> <img alt="Python" src="https://img.shields.io/badge/-Python-black?logo=Python&style=social" /> 
 
 ### Databases and Tools:
 
