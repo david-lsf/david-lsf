@@ -1,16 +1,20 @@
-### Hi there 👋
+### I'm [David Figueira](https://github.com/david-lsf)
 
-<!--
-**david-lsf/david-lsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-   Software Analysis Intern
+-   Electronic engineering student at the Federal University of Amazonas
+-   Manaus, Amazonas.
 
-Here are some ideas to get you started:
+### Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img alt="C++" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" /> <img alt="Python" src="https://img.shields.io/badge/-Python-black?logo=Python&style=social" /> 
+
+### Databases and Tools:
+
+<img alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img alt="" src=""/>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<hr>
+
+![Hrishikesh's github stats](https://github-readme-stats.vercel.app/api/?username=david-lsf&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
