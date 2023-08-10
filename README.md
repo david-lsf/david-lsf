@@ -1,6 +1,6 @@
 ### I'm [David Figueira](https://github.com/david-lsf)
 
--   Software Analysis Intern
+-   Junior Software Analyst
 -   Electronic engineering student at the Federal University of Amazonas
 -   Manaus, Amazonas.
 
