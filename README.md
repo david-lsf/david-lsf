@@ -1,17 +1,32 @@
-### I'm [David Figueira](https://github.com/david-lsf)
+# Hi there, I'm David Figueira 👋
 
--   Junior Software Analyst
--   Electronic engineering student at the Federal University of Amazonas
--   Manaus, Amazonas.
+Software Analyst specializing in **Embedded Android (AOSP)**, **System Performance Optimization**, and **Camera Subsystems**. Passionate about low-level software, IoT, and Computer Vision.
 
-### Languages:
+---
 
-<img alt="C++" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" /><img alt="Python" src="https://img.shields.io/badge/-Python-black?logo=Python&style=social" />
+### 🚀 About Me
+- 🔭 **Current Focus:** Android OS Performance tuning, C/C++ framework development, and CTS/VTS compliance for global mobile platforms.
+- 🎓 **Education:** - Post-grad Specialization in **IoT** @ IFAM
+  - B.S. in **Electrical/Electronic Engineering** @ UFAM
+- 📚 **Research & Publications:** Published author at **IEEE Xplore** and **IATED** on Computer Vision, Machine Learning (LSTM), and IoT.
+- 📍 **Location:** Manaus, AM, Brazil 🇧🇷
 
-### Databases and Tools:
+---
 
-<img alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/><img alt="" src=""/>
+### 🛠️ Tech Stack & Skills
+- **Languages:** C, C++, Python, Java, Shell Script, SQL
+- **OS & Frameworks:** Embedded Android (AOSP), Embedded Linux, Android HAL, Camera Stack
+- **Tools & Debugging:** Perfetto, Systrace, ADB, Logcat, Git, GDB
+- **Domains:** System Performance, Driver/HAL Bring-up, Computer Vision, IoT
 
-<hr>
+---
 
-![Hrishikesh's github stats](https://github-readme-stats.vercel.app/api/?username=david-lsf&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
+### 📜 Published Papers
+- 📄 *Using Project-Based Learning in Teaching Computational Vision and IoT for Vehicle License Plate Recognition* — **INTED 2025**
+- 📄 *Identification of Individuals Using Multimodal Data and LSTM Neural Networks* — **IEEE ICECCME 2023**
+- 📄 *Smart Plug Prototype for Residential Electrical Energy Monitoring* — **IEEE ICCE-TW 2021**
+
+---
+
+📫 **How to reach me:**
+[LinkedIn](https://linkedin.com/in/david-lsf) | [Email](mailto:dvsantos.d@gmail.com)
